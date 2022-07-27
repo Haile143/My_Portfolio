@@ -39,7 +39,7 @@ Here are some of my best Data Science Projects. I have explored various machine-
 
 ***
 
-[The classification goal is to predict if patient has paget's disease or not based on the orthopedic parameters](https://github.com/Haile143/Orthopedic_KNN)
+[Orthopedic Patients Prediction](https://github.com/Haile143/Orthopedic_KNN)
 
 <img src="images/OP.png?raw=true"/>
 
